@@ -3,8 +3,8 @@
 
 # Contents
 **Sorting**
-+Selection Sort
-+Insertion Sort
-+Quick Sort
-+Counting Sort
-+Python Sort Library
++ Selection Sort
++ Insertion Sort
++ Quick Sort
++ Counting Sort
++ Python Sort Library
