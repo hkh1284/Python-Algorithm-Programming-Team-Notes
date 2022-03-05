@@ -7,4 +7,23 @@
 + Insertion Sort
 + Quick Sort
 + Counting Sort
-+ Python Sort Library
+
+### Searching
++ Binary Search
++ DFS
++ BFS
+
+### Graph
++ Dijkstra
++ Floyd-Warshall
++ Minimum Spanning Tree(MST)
+
+### Dynamic Programming
++ Bottom-up
++ Top-down
+
+### Greedy
+
+### Number Theory
++ Check Prime Number
++ 
