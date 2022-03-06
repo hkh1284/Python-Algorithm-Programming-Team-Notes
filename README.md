@@ -14,8 +14,10 @@
 + BFS
 
 ### Graph
+#### Shortest path problem
 + Dijkstra
 + Floyd-Warshall
+
 + Minimum Spanning Tree(MST)
 
 ### Dynamic Programming
@@ -27,3 +29,4 @@
 ### Number Theory
 + Check Prime Number
 + 
+
