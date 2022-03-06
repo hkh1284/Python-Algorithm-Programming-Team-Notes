@@ -15,6 +15,7 @@
 
 ### Graph
 #### Shortest path problem
++ BFS
 + Dijkstra
 + Floyd-Warshall
 #### Other
