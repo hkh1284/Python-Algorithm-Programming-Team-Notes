@@ -17,7 +17,7 @@
 #### Shortest path problem
 + Dijkstra
 + Floyd-Warshall
-
+#### Other
 + Minimum Spanning Tree(MST)
 
 ### Dynamic Programming
