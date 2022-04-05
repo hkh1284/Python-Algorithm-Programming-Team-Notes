@@ -1,6 +1,8 @@
 # Python Algorithm Programming Team Note
 코딩테스트를 위한 파이썬(Python) 소스코드 저장소입니다.
--학습자료 : 이것이 코딩테스트다 with 파이썬
+
+-학습자료 : 이것이 코딩테스트다 with 파이썬, 백준, 프로그래머스
+
 # Contents
 ### Sorting
 + Selection Sort
