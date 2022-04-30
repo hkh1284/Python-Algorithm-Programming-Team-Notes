@@ -23,7 +23,7 @@
 
 ### 파이썬 정렬함수의 시간복잡도
 - sort()
-O(nlogn)
+: O(nlogn)
 - sorted()
 
 ### Graph
